@@ -184,7 +184,7 @@ main {
   list-style: none;
 }
 
-.video-links > li a {
+.video-links > li a , #home{
   text-decoration: none;
   color: black;
   font-size: 0.95rem;
@@ -359,3 +359,4 @@ main {
 .image-whatsapp {
   text-align: center;
 }
+
